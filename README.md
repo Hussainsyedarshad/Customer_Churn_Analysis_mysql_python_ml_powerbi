@@ -132,7 +132,7 @@ Customer churn varies significantly by region, suggesting location-specific mark
 Develop targeted retention initiatives for high-risk regions.
 
 ---
-
+https://github.com/Hussainsyedarshad/Customer_Churn_Analysis_mysql_python_ml_powerbi/blob/main/Screenshot%202026-06-18%20183530.png
 
 
 ---
