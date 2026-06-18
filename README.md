@@ -137,7 +137,7 @@ Develop targeted retention initiatives for high-risk regions.
 
 ---
 
-# XYZ Summary
+# Summary
 
 Analyzed 6,418 customer records using SQL and Power BI, resulting in the identification of 1,732 churned customers and uncovering the primary drivers of churn across contracts, services, customer tenure, and competitive factors.
 
